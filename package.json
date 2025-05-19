@@ -2,7 +2,6 @@
   "name": "react-revision",
   "version": "1.0.0",
   "description": "This is react basics revision",
-  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
