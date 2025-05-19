@@ -1,0 +1,22 @@
+{
+  "name": "react-revision",
+  "version": "1.0.0",
+  "description": "This is react basics revision",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praneeth-005/React-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praneeth-005/React-basics/issues"
+  },
+  "homepage": "https://github.com/praneeth-005/React-basics#readme",
+  "devDependencies": {
+    "parcel": "^2.15.1"
+  }
+}
