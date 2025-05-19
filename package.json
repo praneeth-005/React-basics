@@ -17,5 +17,9 @@
   "homepage": "https://github.com/praneeth-005/React-basics#readme",
   "devDependencies": {
     "parcel": "^2.15.1"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   }
 }
